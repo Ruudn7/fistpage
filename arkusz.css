@@ -1,0 +1,52 @@
+
+
+
+table, th,td {
+  border:1px solid black;
+  border-collapse: collapse;
+    width:50%;
+    }
+
+th {
+    text-align: left;
+}
+
+
+#li01 {
+    color: blue;
+}
+
+
+#li03 {
+    color: yellow;
+}
+
+
+
+#li02 {
+    display: inline; 
+}
+
+
+a {color: green;}
+
+
+
+body {
+    height: 100%;
+    background: linear-gradient(orange, green, black);
+    }
+ 
+
+
+form {    
+    color:	#FFFFFF                         
+    }
+
+p { 
+    text-indent: 53px;
+}
+
+ul {
+    direction: rtl;
+}
